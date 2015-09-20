@@ -1,0 +1,34 @@
+# processors
+
+- [ ] ARC <https://en.wikipedia.org/wiki/ARC_%28processor%29>
+- [ ] ARM <https://en.wikipedia.org/wiki/ARM_architecture>
+- [ ] Apollo Guidance Computer <https://en.wikipedia.org/wiki/Apollo_Guidance_Computer>
+- [ ] Blackfin <https://en.wikipedia.org/wiki/Blackfin>
+- [ ] CDC 7600 <https://en.wikipedia.org/wiki/CDC_7600>
+- [ ] Cell <https://en.wikipedia.org/wiki/Cell_%28microprocessor%29>
+- [ ] Clipper <https://en.wikipedia.org/wiki/Clipper_architecture>
+- [ ] DEC Alpha <https://en.wikipedia.org/wiki/DEC_Alpha>
+- [ ] DEC PDP-11 (11/40 in particular) <https://en.wikipedia.org/wiki/PDP-11>
+- [ ] DEC Prism <https://en.wikipedia.org/wiki/DEC_Prism>
+- [ ] DEC VAX <https://en.wikipedia.org/wiki/VAX>
+- [ ] HP PA-RISC <https://en.wikipedia.org/wiki/PA-RISC>
+- [ ] Hitachi SuperH <https://en.wikipedia.org/wiki/SuperH>
+- [ ] Hobbit <https://en.wikipedia.org/wiki/AT%26T_Hobbit>
+- [ ] Itanium <https://en.wikipedia.org/wiki/Itanium>
+- [ ] LatticeMico32 <https://en.wikipedia.org/wiki/LatticeMico32>
+- [ ] Loongson <https://en.wikipedia.org/wiki/Loongson>
+- [ ] MIL-STD-1750A <MIL-STD-1750A>
+- [ ] MIPS <https://en.wikipedia.org/wiki/MIPS_instruction_set>
+- [ ] MMIX <https://en.wikipedia.org/wiki/MMIX>
+- [ ] MOS 6502 <https://en.wikipedia.org/wiki/MOS_Technology_6502>
+- [ ] Motorola 68000 series <https://en.wikipedia.org/wiki/Motorola_68000_series>
+- [ ] Motorola 6809 <https://en.wikipedia.org/wiki/Motorola_6809>
+- [ ] Motorola 88000 <https://en.wikipedia.org/wiki/Motorola_88000>
+- [ ] OpenRISC <https://en.wikipedia.org/wiki/OpenRISC>
+- [ ] OpenSPARC <https://en.wikipedia.org/wiki/OpenSPARC>
+- [ ] PowerPC <https://en.wikipedia.org/wiki/PowerPC>
+- [ ] RISC-V <https://en.wikipedia.org/wiki/RISC-V>
+- [ ] SPARC <https://en.wikipedia.org/wiki/SPARC>
+- [ ] Zilog Z80 <https://en.wikipedia.org/wiki/Zilog_Z80>
+- [ ] x86 family <https://en.wikipedia.org/wiki/X86>
+
